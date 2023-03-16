@@ -35,7 +35,7 @@ package v4
 
 import (
 	"fmt"
-	"github.com/looker-open-source/sdk-codegen/go/rtl"
+	"github.com/vendasta/looker-sdk-codegen/go/rtl"
 	"net/url"
 	"time"
 )

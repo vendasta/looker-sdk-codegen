@@ -34,7 +34,7 @@ SOFTWARE.
 package v4
 
 import (
-	"github.com/looker-open-source/sdk-codegen/go/rtl"
+	"github.com/vendasta/looker-sdk-codegen/go/rtl"
 	"time"
 )
 

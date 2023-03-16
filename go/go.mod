@@ -1,4 +1,4 @@
-module github.com/looker-open-source/sdk-codegen/go
+module github.com/vendasta/looker-sdk-codegen/go
 
 go 1.14
 
